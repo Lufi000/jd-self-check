@@ -1,6 +1,6 @@
 {
-  "name": "jd-self-check",
-  "description": "JD 自检与投递管理：简历+访谈建立求职画像，自检、看板、定制简历、打招呼语、面试准备",
+  "name": "apply-smart",
+  "description": "JD 自检与投递管理：简历+访谈建立求职画像，自检、看板、定制简历、打招呼语、面试准备。| JD self-check & application tracker: build profile via resume + interview, match JD, manage kanban, tailor resume, greeting copy, interview prep.",
   "version": "1.0.0",
   "author": { "name": "Lufi000" },
   "repository": "https://github.com/Lufi000/jd-self-check",

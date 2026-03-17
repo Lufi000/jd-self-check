@@ -21,7 +21,7 @@
 
 ## 安装与配置
 
-**作为 Cursor 插件安装**（推荐）：在 Cursor 内打开 Marketplace（设置或插件面板），搜索「jd-self-check」或「JD 自检」安装。若尚未上架，可先通过 [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish) 提交本仓库链接等待审核。
+**作为 Cursor 插件安装**（推荐）：在 Cursor 内打开 Marketplace（设置或插件面板），搜索「apply-smart」或「JD 自检」安装。若尚未上架，可先通过 [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish) 提交本仓库链接等待审核。
 
 **或 clone 使用**：将本仓库 clone 到你的工作区：
    ```bash
