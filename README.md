@@ -16,7 +16,7 @@
 ## 前置条件
 
 - **Cursor**（本 skill 运行环境）
-- **Obsidian**（可选，用于看板与工作考虑文档；也可用普通 Markdown 文件）
+- **Obsidian**（可选，用于看板与工作考虑文档；也可用普通 Markdown 文件）。**若要在 Obsidian 里以看板视图展示「岗位投递看板」**，需在 Obsidian 中另行安装 **Kanban 插件**（如社区插件「Kanban」）；本 skill 只读写看板 .md 文件内容，不依赖该插件，用普通 Markdown 也可维护看板。
 - **Chrome**（推荐，用于一键导出简历 PDF；无则可用浏览器手动打印）
 
 ## 安装与配置
