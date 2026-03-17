@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "author": { "name": "Lufi000" },
   "repository": "https://github.com/Lufi000/jd-self-check",
-  "keywords": ["job", "JD", "resume", "interview", "求职", "自检", "投递"]
+  "keywords": ["job", "JD", "resume", "interview", "求职", "自检", "投递"],
+  "logo": "assets/logo.svg"
 }
