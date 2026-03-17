@@ -21,9 +21,11 @@
 
 ## 安装与配置
 
-1. 将本仓库 clone 到你的工作区：
+**作为 Cursor 插件安装**（推荐）：在 Cursor 内打开 Marketplace（设置或插件面板），搜索「jd-self-check」或「JD 自检」安装。若尚未上架，可先通过 [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish) 提交本仓库链接等待审核。
+
+**或 clone 使用**：将本仓库 clone 到你的工作区：
    ```bash
-   git clone <本仓库 URL> "<你的工作区路径>/.cursor/skills/jd-self-check"
+   git clone https://github.com/Lufi000/jd-self-check "<你的工作区路径>/.cursor/skills/jd-self-check"
    ```
 2. 按 [CONFIG.md](docs/CONFIG.md) 说明，将 SKILL.md 中出现的**自检文档路径、简历模板路径、看板路径、工作考虑文档命名约定**改为你本地的路径。
 3. 首次使用前，准备一份「工作需求-匹配自检」文档（可使用 `templates/工作需求-匹配自检-模板.md` 作为结构参考），或直接通过场景零由 Agent 访谈生成。
